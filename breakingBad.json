@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Walter White",
+        "nickname": "Heisenberg",
+        "img": "https://images8.alphacoders.com/638/thumb-1920-638450.jpg"
+    },
+    {
+        "name": "Jessie Pinkman",
+        "nickname": "Cap n' Cook",
+        "img": "https://wallpapercave.com/wp/wp5201628.jpg"
+    },
+    {
+        "name": "Saul Goodman",
+        "nickname": "Jimmy McGill",
+        "img": "https://images.alphacoders.com/568/thumb-1920-568432.jpg"
+    },
+    {
+        "name": "Henry Schrader",
+        "nickname": "Hank",
+        "img": "https://images7.alphacoders.com/638/thumb-1920-638480.jpg"
+    },
+    {
+        "name": "Gustavo Fring",
+        "nickname": "Gus",
+        "img": "https://images8.alphacoders.com/617/thumb-1920-617294.jpg"
+    },
+    {
+        "name": "Mike Ehrmantraut",
+        "nickname": "Mike",
+        "img": "https://images8.alphacoders.com/685/thumb-1920-685651.jpg"
+    },
+    {
+        "name": "Skyler White",
+        "nickname": "Sky",
+        "img": "https://images7.alphacoders.com/543/thumb-1920-543506.jpg"
+    },
+    {
+        "name": "Walter White Jr.",
+        "nickname": "Flynn",
+        "img": "https://images4.alphacoders.com/638/thumb-1920-638474.jpg"
+    },
+    {
+        "name": "Marie Schrader",
+        "nickname": "Marie",
+        "img": "https://images5.alphacoders.com/106/thumb-1920-1062143.jpg"
+    },
+    {
+        "name": "Lydia Rodarte-Quayle",
+        "nickname": "Lydia",
+        "img": "https://images4.alphacoders.com/629/thumb-1920-629896.jpg"
+    }
+]
